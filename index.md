@@ -4,4 +4,11 @@
 markdwon_learn = 'It seems fun to learn MarkDown.'
 print(markdown_learn)
 ```
-
+My first session of learning MarkDown:
+- [ ] Follow the instructions
+- [ ] Identify questions on things I don't understand
+- [ ] Find answers on those questions
+- [ ] Find a basic project which I can use my learned Markdown skills.
+- [ ] Do the project
+- [ ] Review and make notes
+- [ ] Build tests with Chatgpt to help me review about the Markdown skills I learned. 
